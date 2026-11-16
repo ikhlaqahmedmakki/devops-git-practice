@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "System Information"
+echo "Linux System Information - Developer A"
 echo "------------------"
 echo "Hostname: $(hostname)"
 echo "Current User: $(whoami)"
