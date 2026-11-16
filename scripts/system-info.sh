@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "System Information"
+echo "Ubuntu Server Information - Developer B"
 echo "------------------"
 echo "Hostname: $(hostname)"
 echo "Current User: $(whoami)"
