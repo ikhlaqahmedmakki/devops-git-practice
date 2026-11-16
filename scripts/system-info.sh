@@ -1,7 +1,6 @@
 #!/bin/bash
 
-echo "System Information"
-echo "------------------"
+echo "Linux / Ubuntu System Information"
 echo "Hostname: $(hostname)"
 echo "Current User: $(whoami)"
 echo "Date: $(date)"
